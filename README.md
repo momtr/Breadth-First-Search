@@ -29,4 +29,6 @@ Current dataset:
 <br>
 Algotithm's output for `bfs(On, Hi)`:
 <br>
-![img2](https://github.com/moritzmitterdorfer/Breadth-First-Search/blob/master/bfs_img.png) 
+![img2](https://github.com/moritzmitterdorfer/Breadth-First-Search/blob/master/bfs_img.png)
+<br>
+Maybe you can think of a better interface haha :)
