@@ -23,5 +23,5 @@ e.g.:
 }
 ```
 
-Current data set:
+Current dataset:
 ![img](https://github.com/moritzmitterdorfer/Breadth-First-Search/blob/master/657C1D63-6386-4190-96EC-80C712BF2536.jpeg)
