@@ -1,0 +1,84 @@
+{
+    "graph": [
+        {
+            "label": "M",
+            "edges": ["Ba", "Ma"]
+        },
+        {
+            "label": "Ma",
+            "edges": ["M", "In", "He", "Ba"]
+        },
+        {
+            "label": "In",
+            "edges": ["Mar", "Ma", "E", "F", "He"]
+        },
+        {
+            "label": "Mar",
+            "edges": ["In"]
+        },
+        {
+            "label": "E",
+            "edges": ["In"]
+        },
+        {
+            "label": "F",
+            "edges": ["In"]
+        },
+        {
+            "label": "He",
+            "edges": ["In", "Ma", "Al", "Hi", "G", "H"]
+        },
+        {
+            "label": "Al",
+            "edges": ["He", "Hi"]
+        },
+        {
+            "label": "Hi",
+            "edges": ["Al", "He"]
+        },
+        {
+            "label": "G",
+            "edges": ["He"]
+        },
+        {
+            "label": "H",
+            "edges": ["He"]
+        },
+        {
+            "label": "Ba",
+            "edges": ["M", "Ma", "Er", "Ge", "Pe"]
+        },
+        {
+            "label": "Pe",
+            "edges": ["On", "Ge", "Er", "Ba"]
+        },
+        {
+            "label": "On",
+            "edges": ["Pe"]
+        },
+        {
+            "label": "Ge",
+            "edges": ["Ba", "Pe", "Er", "A", "B"]
+        },
+        {
+            "label": "A",
+            "edges": ["Ge"]
+        },
+        {
+            "label": "B",
+            "edges": ["Ge"]
+        },
+        {
+            "label": "Er",
+            "edges": ["Ba", "Pe", "Ge", "C", "D"]
+        },
+        {
+            "label": "C",
+            "edges": ["Er"]
+        },
+        {
+            "label": "D",
+            "edges": ["Er"]
+        }
+    ]
+}
