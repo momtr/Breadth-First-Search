@@ -1,6 +1,6 @@
 # Breadth-First-Search
 
-Breadth first search is an algorithm to find the smallest path between two nodes in a graph system.
+Breadth first search is an algorithm to find the smallest path between two nodes in a graph system. <br>
 
 ```
 path = breadth_first_search(startNode, goalNode, graph)
@@ -25,3 +25,8 @@ e.g.:
 
 Current dataset:
 ![img](https://github.com/moritzmitterdorfer/Breadth-First-Search/blob/master/657C1D63-6386-4190-96EC-80C712BF2536.jpeg)
+<br>
+<br>
+Algotithm's output for `bfs(On, Hi)`:
+<br>
+![img2](https://github.com/moritzmitterdorfer/Breadth-First-Search/blob/master/bfs_img.png) 
