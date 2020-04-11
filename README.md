@@ -24,11 +24,13 @@ e.g.:
 ```
 
 Current dataset:
-![img](https://github.com/moritzmitterdorfer/Breadth-First-Search/blob/master/657C1D63-6386-4190-96EC-80C712BF2536.jpeg)
+
+<img src="https://github.com/moritzmitterdorfer/Breadth-First-Search/blob/master/657C1D63-6386-4190-96EC-80C712BF2536.jpeg" width="500">
+
 <br>
 <br>
 Algotithm's output for `bfs(On, Hi)`:
 <br>
-![img2](https://github.com/moritzmitterdorfer/Breadth-First-Search/blob/master/bfs_img.png)
+<img src="https://github.com/moritzmitterdorfer/Breadth-First-Search/blob/master/bfs_img.png" width="500">
 <br>
 Maybe you can think of a better interface haha :)
